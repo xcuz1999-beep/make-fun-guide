@@ -1,0 +1,10 @@
+# Secrets and local agent state — never commit these.
+*.keypair.json
+keypair.json
+.env
+.makefun/
+
+# OS and editor noise
+.DS_Store
+*.swp
+*~
