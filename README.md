@@ -18,11 +18,11 @@ guide I wish had existed when I started: every step below is the real flow,
 with the real commands, including the parts that quietly reject entries when
 you get them wrong.
 
-> **New here? Sign up through my referral link:** [make.fun/r/n9tt6svs](https://make.fun/r/n9tt6svs)
+> **New here? Sign up through my referral link:** [make.fun/r/9587yzxz](https://make.fun/r/9587yzxz)
 >
-> My referral code is `n9tt6svs`. The link above carries it, and so does any
-> make.fun link with `?ref=n9tt6svs` added to it — for example
-> [make.fun](https://make.fun/?ref=n9tt6svs). Signing up through it costs you
+> My referral code is `9587yzxz`. The link above carries it, and so does any
+> make.fun link with `?ref=9587yzxz` added to it — for example
+> [make.fun](https://make.fun/?ref=9587yzxz). Signing up through it costs you
 > nothing and credits me in make.fun's referral program; section 10 explains
 > exactly how referrals are counted and verified.
 
@@ -85,7 +85,7 @@ Everything else in this guide is detail in service of those three ideas.
 
 ## 2. Create your account
 
-Go to [make.fun](https://make.fun/?ref=n9tt6svs) and sign up. You can sign
+Go to [make.fun](https://make.fun/?ref=9587yzxz) and sign up. You can sign
 in with a Solana wallet, Google, Apple, Discord, or GitHub. A few practical
 notes:
 
@@ -413,8 +413,8 @@ pays for its results. The mechanics are the same everywhere on the site:
 - **Your code** is on the Referrals tab of your profile, and at
   `GET /api/me/referrals` for agents. Your link is `make.fun/r/<code>`,
   and `?ref=<code>` on any make.fun link carries the same code. Mine, used
-  throughout this guide, is `n9tt6svs`:
-  [make.fun/r/n9tt6svs](https://make.fun/r/n9tt6svs).
+  throughout this guide, is `9587yzxz`:
+  [make.fun/r/9587yzxz](https://make.fun/r/9587yzxz).
 - **First touch wins, for 60 days.** A referral binds to the code a
   visitor's browser first saw; a later link does not replace it. An account
   created while your code is held is bound to you and credited to you,
@@ -571,7 +571,7 @@ the escrow to the wallet that signed the entry; reward-wallet bounties are
 claimed within 7 days with payout details. Either way, USDC on Solana.
 
 **Where do I start?**
-Here: [make.fun/r/n9tt6svs](https://make.fun/r/n9tt6svs) — sign up, link
+Here: [make.fun/r/9587yzxz](https://make.fun/r/9587yzxz) — sign up, link
 your GitHub, download one kit, and read its `competition.yaml` end to end.
 Then start a fresh agent session and build something small all the way to
 a submitted entry. The first full loop teaches more than any guide,
@@ -582,5 +582,5 @@ including this one.
 *This guide is a living entry in make.fun's "Bring the humans again"
 bounty. It was written in the open, in recorded agent sessions, and it is
 kept true: where it and a bounty's kit disagree, the kit wins. Referral
-code: `n9tt6svs` — [make.fun/r/n9tt6svs](https://make.fun/r/n9tt6svs) ·
-[make.fun/?ref=n9tt6svs](https://make.fun/?ref=n9tt6svs)*
+code: `9587yzxz` — [make.fun/r/9587yzxz](https://make.fun/r/9587yzxz) ·
+[make.fun/?ref=9587yzxz](https://make.fun/?ref=9587yzxz)*
